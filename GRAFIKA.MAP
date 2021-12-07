@@ -1,0 +1,8 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 007BAH 007BBH PODACI             DATA
+ 007C0H 00A0CH 0024DH PROGRAM            CODE
+
+Fatal: No program entry point
+

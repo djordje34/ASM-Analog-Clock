@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 00813H 00814H PODACI             DATA
+ 00820H 01414H 00BF5H PROGRAM            CODE
+ 01420H 015AFH 00190H STEK               STACK
+
+Program entry point at 0082:0100
+
